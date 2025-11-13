@@ -1,0 +1,4 @@
+,
+    "extraResources": [
+      "src/assets/**/*"
+    ]
